@@ -1,0 +1,6 @@
+C:\Users\Archimedes\Desktop\IntroToCSharpClass4\Lecture4\Lecture4\bin\Debug\Lecture4.exe.config
+C:\Users\Archimedes\Desktop\IntroToCSharpClass4\Lecture4\Lecture4\bin\Debug\Lecture4.exe
+C:\Users\Archimedes\Desktop\IntroToCSharpClass4\Lecture4\Lecture4\bin\Debug\Lecture4.pdb
+C:\Users\Archimedes\Desktop\IntroToCSharpClass4\Lecture4\Lecture4\obj\Debug\Lecture4.csprojResolveAssemblyReference.cache
+C:\Users\Archimedes\Desktop\IntroToCSharpClass4\Lecture4\Lecture4\obj\Debug\Lecture4.exe
+C:\Users\Archimedes\Desktop\IntroToCSharpClass4\Lecture4\Lecture4\obj\Debug\Lecture4.pdb
